@@ -1,1 +1,3 @@
 ate_it/src/models/*
+ate_it/src/.env
+embedding_visualizer/*
