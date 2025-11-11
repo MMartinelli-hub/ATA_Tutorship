@@ -1,0 +1,12 @@
+file_name,micro_precision,micro_recall,micro_f1,type_precision,type_recall,type_f1
+bert_token_classification,0.655,0.652,0.653,0.566,0.566,0.566
+gemma3_4B_finetuned,0.616,0.599,0.607,0.525,0.554,0.539
+vanilla,0.428,0.738,0.542,0.657,0.562,0.606
+baseline_a_1,0.455,0.623,0.526,0.369,0.607,0.459
+llm_zero_shot,0.442,0.603,0.51,0.379,0.612,0.468
+spacy_trained,0.573,0.333,0.421,0.512,0.364,0.425
+spacy_baseline,0.502,0.35,0.413,0.701,0.368,0.482
+dspy_optimized,0.25,0.579,0.349,0.204,0.529,0.294
+nltk_trained,0.22,0.743,0.339,0.614,0.566,0.589
+dspy_baseline,0.215,0.557,0.31,0.172,0.5,0.256
+nltk_baseline,0.16,0.743,0.263,0.557,0.566,0.561

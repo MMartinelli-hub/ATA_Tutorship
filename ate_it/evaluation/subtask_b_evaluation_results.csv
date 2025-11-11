@@ -1,0 +1,9 @@
+file_name,bcubed_precision,bcubed_recall,bcubed_f1
+nltk_tfidf,0.8,0.941,0.865
+spacy_baseline,0.755,0.873,0.81
+bert_baseline,0.743,0.862,0.798
+vanilla,0.656,0.87,0.748
+nltk_baseline,0.634,0.861,0.73
+spacy_kmeans,0.563,0.773,0.651
+bert_kmeans,0.539,0.774,0.635
+baseline_b_1,0.332,0.95,0.492
