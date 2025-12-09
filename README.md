@@ -11,6 +11,9 @@
     - vanilla NER 
     - bert for token classification (with *transformers* built-in classification head and BIO tagging schema)
     - GLiNER V1 and V2
+    - vanilla RE
+    - bert for RE 
+    - rebel for RE
 
 ## Note
 The **data** folder within **gutbrainie** is provided empty. You can download related files and populate this folder from: https://zenodo.org/records/16845409/files/GutBrainIE_Full_Collection_2025.zip?download=1
