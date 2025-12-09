@@ -18,3 +18,4 @@
 ## Note
 - The **data** folder within **gutbrainie** is provided empty. You can download related files and populate this folder from: https://zenodo.org/records/16845409/files/GutBrainIE_Full_Collection_2025.zip?download=1
 - The GLiNER implementation provided for GutBrainIE is developed for demonstrational purposes only. For a complete implementation specifically tailored to the NER subtask within GutBrainIE, please refer to the baseline system implementation provided by the GutBrainIE organizers at: https://github.com/MMartinelli-hub/GutBrainIE_2025_Baseline
+- Another RE approach for GutBrainIE is ATLOP (see https://github.com/wzhouad/ATLOP). For a complete implementation specifically tailored to the RE subtask within GutBrainIE, please refer to the baseline system implementation provided by the GutBrainIE organizers at: https://github.com/MMartinelli-hub/GutBrainIE_2025_Baseline
