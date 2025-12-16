@@ -1,0 +1,4 @@
+Configuration,Model,Prompt,Accuracy,Precision,Recall,F1-Score
+llama-3.1-8b-instant_structured,llama-3.1-8b-instant,structured,0.805,0.805,0.805,0.805
+llama-3.1-8b-instant_detailed,llama-3.1-8b-instant,detailed,0.785,0.7825672087620312,0.785,0.7830403645833333
+llama-3.1-8b-instant_simple,llama-3.1-8b-instant,simple,0.7725,0.7793572044866264,0.7725,0.7582368082368083
